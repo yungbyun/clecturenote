@@ -1,12 +1,4 @@
 #pragma once
 
-void DisplayMenu();
-void Before();
-void After();
-void Add();
-void Sub();
-void Mul();
-void Div();
-void ShowIntro();
-void GetUserInputAndCompute();
-void RunCalculator();
+void MenuDisplay();
+void Run(); //이 함수를 호출하면 계산가 실행됨.
